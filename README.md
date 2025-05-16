@@ -71,7 +71,7 @@ Ensure you download and place the datasets in the appropriate folder structure b
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Speech-Emotion-Recognition.git
+git clone https://github.com/areebaghazal88/Speech-Emotion-Recognition-using-Deep-learning.git
 cd Speech-Emotion-Recognition
 ````
 
