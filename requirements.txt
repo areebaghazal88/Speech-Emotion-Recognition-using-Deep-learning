@@ -1,0 +1,10 @@
+numpy>=1.19.5
+pandas>=1.1.5
+matplotlib>=3.3.4
+librosa>=0.8.0
+scikit-learn>=0.24.1
+tensorflow>=2.4.1
+keras>=2.4.3
+soundfile>=0.10.3.post1
+PyAudio>=0.2.11
+tk
